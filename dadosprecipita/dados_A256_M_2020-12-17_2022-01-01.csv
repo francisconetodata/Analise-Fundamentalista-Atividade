@@ -1,0 +1,26 @@
+Nome: SANTA MARIA DAS BARREIRAS
+Codigo Estacao: A256
+Latitude: -8.72972221
+Longitude: -49.85638888
+Altitude: 165
+Situacao: Operante
+Data Inicial: 2020-12-17
+Data Final: 2022-01-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL (AUT)(mm);
+2020-12-31;null;
+2021-01-31;null;
+2021-02-28;306.4;
+2021-03-31;341.2;
+2021-04-30;294;
+2021-05-31;65.4;
+2021-06-30;0;
+2021-07-31;0;
+2021-08-31;0;
+2021-09-30;88.8;
+2021-10-31;130;
+2021-11-30;306;
+2021-12-31;null;
+2022-01-31;null;
+

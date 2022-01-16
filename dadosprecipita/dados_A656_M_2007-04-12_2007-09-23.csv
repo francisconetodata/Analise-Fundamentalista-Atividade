@@ -1,0 +1,18 @@
+Nome: MARACANA
+Codigo Estacao: A656
+Latitude: -22.91111111
+Longitude: -43.22722221
+Altitude: 14
+Situacao: Desativada
+Data Inicial: 2007-04-12
+Data Final: 2007-09-23
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL (AUT)(mm);
+2007-04-30;null;
+2007-05-31;null;
+2007-06-30;45.4;
+2007-07-31;43.8;
+2007-08-31;4.8;
+2007-09-30;null;
+

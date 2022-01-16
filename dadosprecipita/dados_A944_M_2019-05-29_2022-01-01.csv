@@ -1,0 +1,45 @@
+Nome: ROSARIO OESTE
+Codigo Estacao: A944
+Latitude: -14.82888888
+Longitude: -56.44194444
+Altitude: 195
+Situacao: Pane
+Data Inicial: 2019-05-29
+Data Final: 2022-01-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL (AUT)(mm);
+2019-05-31;null;
+2019-06-30;0;
+2019-07-31;2.8;
+2019-08-31;0;
+2019-09-30;58;
+2019-10-31;53.4;
+2019-11-30;134.8;
+2019-12-31;202;
+2020-01-31;null;
+2020-02-29;null;
+2020-03-31;null;
+2020-04-30;null;
+2020-05-31;null;
+2020-06-30;null;
+2020-07-31;null;
+2020-08-31;null;
+2020-09-30;null;
+2020-10-31;null;
+2020-11-30;null;
+2020-12-31;null;
+2021-01-31;null;
+2021-02-28;null;
+2021-03-31;null;
+2021-04-30;null;
+2021-05-31;null;
+2021-06-30;null;
+2021-07-31;null;
+2021-08-31;null;
+2021-09-30;null;
+2021-10-31;null;
+2021-11-30;null;
+2021-12-31;null;
+2022-01-31;null;
+

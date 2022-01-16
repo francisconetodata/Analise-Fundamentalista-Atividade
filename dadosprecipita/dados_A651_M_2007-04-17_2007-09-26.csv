@@ -1,0 +1,18 @@
+Nome: ESCOLA NAVAL
+Codigo Estacao: A651
+Latitude: -22.91472222
+Longitude: -43.15944444
+Altitude: 14
+Situacao: Desativada
+Data Inicial: 2007-04-17
+Data Final: 2007-09-26
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL (AUT)(mm);
+2007-04-30;null;
+2007-05-31;null;
+2007-06-30;40.6;
+2007-07-31;64;
+2007-08-31;12.4;
+2007-09-30;6.6;
+

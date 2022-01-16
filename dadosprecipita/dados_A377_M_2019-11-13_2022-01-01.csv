@@ -1,0 +1,39 @@
+Nome: ANGICAL DO PIAUI
+Codigo Estacao: A377
+Latitude: -6.08944444
+Longitude: -42.72749999
+Altitude: 183
+Situacao: Pane
+Data Inicial: 2019-11-13
+Data Final: 2022-01-01
+Periodicidade da Medicao: Mensal
+
+Data Medicao;PRECIPITACAO TOTAL, MENSAL (AUT)(mm);
+2019-11-30;null;
+2019-12-31;101.8;
+2020-01-31;112;
+2020-02-29;200.4;
+2020-03-31;616.4;
+2020-04-30;199.2;
+2020-05-31;57.6;
+2020-06-30;6.6;
+2020-07-31;0;
+2020-08-31;0;
+2020-09-30;.8;
+2020-10-31;33.6;
+2020-11-30;35.4;
+2020-12-31;3;
+2021-01-31;null;
+2021-02-28;null;
+2021-03-31;null;
+2021-04-30;null;
+2021-05-31;null;
+2021-06-30;null;
+2021-07-31;null;
+2021-08-31;null;
+2021-09-30;null;
+2021-10-31;null;
+2021-11-30;null;
+2021-12-31;null;
+2022-01-31;null;
+
