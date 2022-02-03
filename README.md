@@ -6,7 +6,7 @@
 
 ### MOTIVAÇÃO  
 
-Nos anos de 2020 e de 2021, o Brasil enfrentou a maior estiagem em 91 anos1. A precipitação é um possível indicador para medir a quantidade de chuvas no Brasil ao longo do tempo e poderia ser comparada com os principais indicadores fundamentalistas das principais empresas no mercado de ações brasileiro. Existem dados históricos presentes no Instituto Nacional de Meteorologia (INMET)2.  
+Nos anos de 2020 e de 2021, o Brasil enfrentou a maior estiagem em 91 anos[1]. A precipitação é um possível indicador para medir a quantidade de chuvas no Brasil ao longo do tempo e poderia ser comparada com os principais indicadores fundamentalistas das principais empresas no mercado de ações brasileiro. Existem dados históricos presentes no Instituto Nacional de Meteorologia (INMET)[2].  
 
 Os dados das empresas de energia podem ser obtidos por duas formas: a primeira são pacotes disponíveis em bibliotecas do Python e a segunda é por meio de procedimento de extração HTML WebScrapping (“Raspagem Web”). Além do uso de algumas ferramentas para tratamento dos dados presentes em bibliotecas do Python. 
 
@@ -33,3 +33,11 @@ BODIE, Zvi; KANE, Alex; MARCUS, Alan. Investimentos. 10. ed. Porto Alegre: Amg
 DEBASTIANI, Carlos Alberto; RUSSO, Felipe Augusto. Avaliando empresas, investindo em ações: a aplicação prática da análise fundamentalista na avaliação de empresas. São Paulo: Novatec, 2008. 224 p. 
 
 REIS, Tiago Guitián dos; TOSETTO, Jean Vitor Mantei. Guia suno de contabilidade para investidores: conceitos contábeis fundamentais para quem investe na bolsa. São Paulo: Cla Cultural, 2019. 118 p. 
+
+
+#### Links mencionados:
+[1] https://diariodocomercio.com.br/economia/brasil-experimenta-a-maior-crise-hidrica-em-91-anos/ (acessado em 16 de janeiro de 2022) 
+
+[2] https://portal.inmet.gov.br/dadoshistoricos (acessado em 16 de janeiro de 2022) 
+
+[3] Algoritmo e dados disponíveis em: https://drive.google.com/drive/folders/1GBLGHhf19_NkY_Y36eWkKXlRizThaKkm?usp=sharing 4 Exemplo em meu GitHub: https://github.com/francisconetodata/finance_python/blob/main/analise.ipynb 
