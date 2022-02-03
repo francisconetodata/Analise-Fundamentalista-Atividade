@@ -40,4 +40,6 @@ REIS, Tiago Guitián dos; TOSETTO, Jean Vitor Mantei. Guia suno de contabilida
 
 [2] https://portal.inmet.gov.br/dadoshistoricos (acessado em 16 de janeiro de 2022) 
 
-[3] Algoritmo e dados disponíveis em: https://drive.google.com/drive/folders/1GBLGHhf19_NkY_Y36eWkKXlRizThaKkm?usp=sharing 4 Exemplo em meu GitHub: https://github.com/francisconetodata/finance_python/blob/main/analise.ipynb 
+[3] Algoritmo e dados disponíveis em: https://drive.google.com/drive/folders/1GBLGHhf19_NkY_Y36eWkKXlRizThaKkm?usp=sharing 
+
+[4] Exemplo em meu GitHub: https://github.com/francisconetodata/finance_python/blob/main/analise.ipynb 
